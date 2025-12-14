@@ -11,7 +11,44 @@
       "date": "2025-12-15",
       "difficulty": "Medium",
       "topics": ["OOP", "Flowcharts"],
-      "review": "Short questions thore tricky thay."
+      "review": "Short questions, those tricky ones."
+    },
+    {
+      "date": "2025-12-14",
+      "difficulty": "Easy",
+      "topics": ["MCQs", "Short Questions", "Basics"],
+      "review": "Paper mostly handouts se tha, MCQs easy thay."
+    },
+    {
+      "date": "2025-12-15",
+      "difficulty": "Medium",
+      "topics": ["OOP", "Flowcharts"],
+      "review": "Short questions, those tricky ones."
+    },
+    {
+      "date": "2025-12-14",
+      "difficulty": "Easy",
+      "topics": ["MCQs", "Short Questions", "Basics"],
+      "review": "Paper mostly handouts se tha, MCQs easy thay."
+    },
+    {
+      "date": "2025-12-15",
+      "difficulty": "Medium",
+      "topics": ["OOP", "Flowcharts"],
+      "review": "Short questions, those tricky ones."
+    },
+    {
+      "date": "2025-12-14",
+      "difficulty": "Easy",
+      "topics": ["MCQs", "Short Questions", "Basics"],
+      "review": "Paper mostly handouts se tha, MCQs easy thay."
+    },
+    {
+      "date": "2025-12-15",
+      "difficulty": "Medium",
+      "topics": ["OOP", "Flowcharts"],
+      "review": "Short questions, those tricky ones."
     }
   ]
+
 }
